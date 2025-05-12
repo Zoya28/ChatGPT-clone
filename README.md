@@ -59,9 +59,8 @@ This is a simple ChatGPT clone app built using **Langchain**, **Groq LLM (LLaMA-
 ## 📁 Project Structure
 
 ```
-📦 chatgpt-clone-app/
+📦 ChatGPT-clone/
 ├── app.py
-├── .env
 ├── requirements.txt
 ├── README.md
 └── ...
