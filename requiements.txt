@@ -1,6 +1,0 @@
-langchain
-streamlit
-streamlit_chat
-langchain_huggingface
-langchain.memory
-dotenv
